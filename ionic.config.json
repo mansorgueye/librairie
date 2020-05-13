@@ -1,0 +1,7 @@
+{
+  "name": "librairie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
